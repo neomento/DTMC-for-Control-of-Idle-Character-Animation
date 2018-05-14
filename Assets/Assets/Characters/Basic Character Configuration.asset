@@ -1,0 +1,235 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb6ddcbfa3a6eaf428b3024875fef43c, type: 3}
+  m_Name: Basic Character Configuration
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects:
+    - {fileID: 7400030, guid: bb361376202b019489f994473f7339ad, type: 3}
+    - {fileID: 7400004, guid: ab94e8318f4473b4787340ca55242c42, type: 3}
+    - {fileID: 7400006, guid: 0e1038d69e0a80246a484cf8d5966639, type: 3}
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: StateProbabilities
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[AnimationDescription, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: AnimationDescription, Assembly-CSharp
+    - Name: clip
+      Entry: 10
+      Data: 0
+    - Name: probabilities
+      Entry: 7
+      Data: 1|System.Collections.Generic.Dictionary`2[[FocusLevel, Assembly-CSharp],[System.Single,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 7
+      Data: 2|System.Collections.Generic.EnumEqualityComparer`1[[FocusLevel, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 0
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0.2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 4
+      Data: 0.7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimationDescription, Assembly-CSharp
+    - Name: clip
+      Entry: 10
+      Data: 1
+    - Name: probabilities
+      Entry: 7
+      Data: 3|System.Collections.Generic.Dictionary`2[[FocusLevel, Assembly-CSharp],[System.Single,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 2
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0.6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 4
+      Data: 0.2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: AnimationDescription, Assembly-CSharp
+    - Name: clip
+      Entry: 10
+      Data: 2
+    - Name: probabilities
+      Entry: 7
+      Data: 4|System.Collections.Generic.Dictionary`2[[FocusLevel, Assembly-CSharp],[System.Single,
+        mscorlib]], mscorlib
+    - Name: comparer
+      Entry: 9
+      Data: 2
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 4
+      Data: 0.7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 4
+      Data: 0.2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: 
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 4
+      Data: 0.1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  startInterrupt: {fileID: 7400012, guid: ff501f2ff7acb9c42a7f3c4327e39db3, type: 3}
+  keepInterrupt: {fileID: 7400014, guid: ff501f2ff7acb9c42a7f3c4327e39db3, type: 3}
+  endInterrup: {fileID: 7400016, guid: ff501f2ff7acb9c42a7f3c4327e39db3, type: 3}
+  applause: {fileID: 7400004, guid: 30345069c7cf86d44bcd1d6ad4582494, type: 3}
