@@ -10,7 +10,7 @@ public class DTMCDecision : StateMachineBehaviour
 
     float[] probabilities = new float[] { .1f, .3f, .6f };
 
-    public const float BasicStateStayTime = 20f; // Expected stay time of about 20s
+    public const float BasicStateStayTime = 10f; // Expected stay time of about 20s
 
     // Self transition
     public static float StayProbability(float state_probability, float length)
