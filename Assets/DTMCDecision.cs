@@ -28,7 +28,6 @@ public class DTMCDecision : StateMachineBehaviour
     override public void OnStateEnter(Animator animator, AnimatorStateInfo stateInfo, int layerIndex)
     {
         float length = stateInfo.length;
-        Debug.Log(length);
 
         currentState = animator.GetInteger(NextStateParam);
 
@@ -66,7 +65,7 @@ public class DTMCDecision : StateMachineBehaviour
         // Select when fits to the cumulative range (random selection)
         for (int i = 0; i < updatedProbabilites.Length; i++)
         {
-            if (randomVal < probabilities[i])
+            if (randomVal < updatedProbabilites[i])
             {
                 newState = i;
                 break;
