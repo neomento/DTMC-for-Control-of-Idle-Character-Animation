@@ -326,7 +326,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Focus Front
+  m_Name: Look at the teacher
   m_Speed: 0.33
   m_CycleOffset: 0
   m_Transitions:
@@ -355,7 +355,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Look To Side
+  m_Name: look out of a window
   m_Speed: 0.25
   m_CycleOffset: 0
   m_Transitions:
@@ -384,7 +384,7 @@ AnimatorState:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Type
+  m_Name: Play with laptop
   m_Speed: 0.5
   m_CycleOffset: 0
   m_Transitions:
@@ -431,6 +431,6 @@ AnimatorStateMachine:
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 24, y: -36, z: 0}
   m_EntryPosition: {x: 24, y: 36, z: 0}
-  m_ExitPosition: {x: 924, y: 180, z: 0}
+  m_ExitPosition: {x: -120, y: -180, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 1102120858963102790}

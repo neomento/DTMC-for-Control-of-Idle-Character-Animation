@@ -108,7 +108,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossAdjust: 0.7
-    - _GlossMapScale: 0.75
+    - _GlossMapScale: 0.888
     - _Glossiness: 0.34
     - _GlossyReflections: 1
     - _Metallic: 0.02
@@ -133,7 +133,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _BlurRange: {r: 0, g: 1, b: 0, a: 0}
-    - _Color: {r: 0.9339623, g: 0.88813424, b: 0.8414472, a: 1}
+    - _Color: {r: 0.9811321, g: 0.85443807, b: 0.7821289, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _PSSProfileHigh_sqrtvar1234: {r: 0.08, g: 0.22, b: 0.43243498, a: 0.752994}
     - _PSSProfileHigh_transl123_sqrtvar5: {r: -225.4211, g: -29.807749, b: -7.7149463,
